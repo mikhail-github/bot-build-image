@@ -1,1 +1,1 @@
-# bot_build_image
+# Dockerfile for CD image
